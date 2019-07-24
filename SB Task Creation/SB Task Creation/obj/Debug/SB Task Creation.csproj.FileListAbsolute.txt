@@ -1,0 +1,14 @@
+c:\users\00919971\documents\visual studio 2015\Projects\SB Task Creation\SB Task Creation\bin\Debug\SB Task Creation.exe.config
+c:\users\00919971\documents\visual studio 2015\Projects\SB Task Creation\SB Task Creation\bin\Debug\SB Task Creation.exe
+c:\users\00919971\documents\visual studio 2015\Projects\SB Task Creation\SB Task Creation\bin\Debug\SB Task Creation.pdb
+c:\users\00919971\documents\visual studio 2015\Projects\SB Task Creation\SB Task Creation\obj\Debug\SB_Task_Creation.Properties.Resources.resources
+c:\users\00919971\documents\visual studio 2015\Projects\SB Task Creation\SB Task Creation\obj\Debug\SB Task Creation.csproj.GenerateResource.Cache
+c:\users\00919971\documents\visual studio 2015\Projects\SB Task Creation\SB Task Creation\obj\Debug\SB Task Creation.exe
+c:\users\00919971\documents\visual studio 2015\Projects\SB Task Creation\SB Task Creation\obj\Debug\SB Task Creation.pdb
+c:\users\00919971\documents\visual studio 2015\Projects\SB Task Creation\SB Task Creation\bin\Debug\Teradata.Client.Provider.dll
+c:\users\00919971\documents\visual studio 2015\Projects\SB Task Creation\SB Task Creation\bin\Debug\Teradata.Client.Provider.xml
+c:\users\00919971\documents\visual studio 2015\Projects\SB Task Creation\SB Task Creation\bin\Debug\ja\Teradata.Client.Provider.resources.dll
+c:\users\00919971\documents\visual studio 2015\Projects\SB Task Creation\SB Task Creation\obj\Debug\SB_Task_Creation.frmMain.resources
+C:\Users\00919971\documents\visual studio 2015\Projects\SB Task Creation\SB Task Creation\bin\Debug\System.Management.Automation.dll
+C:\Users\00919971\documents\visual studio 2015\Projects\SB Task Creation\SB Task Creation\bin\Debug\Teradata.Net.Security.Tdgss.dll
+C:\Users\00919971\documents\visual studio 2015\Projects\SB Task Creation\SB Task Creation\bin\Debug\ja\Teradata.Net.Security.Tdgss.resources.dll
